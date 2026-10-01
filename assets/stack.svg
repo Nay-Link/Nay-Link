@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="106" viewBox="0 0 1080 106" role="img" aria-label="Demo DevOps technology stack badges">
+<rect width="1080" height="106" fill="none"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
+<g><rect x="0" y="7" rx="13" width="151" height="39" fill="#18263A" stroke="#344963"/><circle cx="22" cy="26" r="7" fill="#FACB55"/><text x="86" y="32" fill="#E5F1FB">Linux</text></g>
+<g><rect x="163" y="7" rx="13" width="150" height="39" fill="#18263A" stroke="#344963"/><circle cx="184" cy="26" r="7" fill="#37A5ED"/><text x="249" y="32" fill="#E5F1FB">Docker</text></g>
+<g><rect x="325" y="7" rx="13" width="201" height="39" fill="#18263A" stroke="#344963"/><circle cx="346" cy="26" r="7" fill="#4D91FE"/><text x="439" y="32" fill="#E5F1FB">Kubernetes</text></g>
+<g><rect x="538" y="7" rx="13" width="178" height="39" fill="#18263A" stroke="#344963"/><circle cx="560" cy="26" r="7" fill="#EC7F4A"/><text x="635" y="32" fill="#E5F1FB">Ansible</text></g>
+<g><rect x="728" y="7" rx="13" width="160" height="39" fill="#18263A" stroke="#344963"/><circle cx="750" cy="26" r="7" fill="#AE80F5"/><text x="821" y="32" fill="#E5F1FB">Helm</text></g>
+<g><rect x="0" y="58" rx="13" width="222" height="39" fill="#18263A" stroke="#344963"/><circle cx="22" cy="77" r="7" fill="#F5A85A"/><text x="124" y="83" fill="#E5F1FB">GitLab CI/CD</text></g>
+<g><rect x="234" y="58" rx="13" width="205" height="39" fill="#18263A" stroke="#344963"/><circle cx="255" cy="77" r="7" fill="#E27D97"/><text x="342" y="83" fill="#E5F1FB">Prometheus</text></g>
+<g><rect x="451" y="58" rx="13" width="182" height="39" fill="#18263A" stroke="#344963"/><circle cx="472" cy="77" r="7" fill="#F6A24B"/><text x="554" y="83" fill="#E5F1FB">Grafana</text></g>
+<g><rect x="645" y="58" rx="13" width="156" height="39" fill="#18263A" stroke="#344963"/><circle cx="668" cy="77" r="7" fill="#77C9A7"/><text x="736" y="83" fill="#E5F1FB">Loki</text></g>
+</g>
+</svg>

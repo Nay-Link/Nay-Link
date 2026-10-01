@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="NOVA OPS demo GitHub profile banner">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1125"/><stop offset="0.6" stop-color="#101A35"/><stop offset="1" stop-color="#091020"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#43D8FF"/><stop offset="1" stop-color="#AB7BFE"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#19B4EB" stop-opacity=".36"/><stop offset="1" stop-color="#19B4EB" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" stroke="#4E658F" stroke-width=".65" fill="none" opacity=".25"/></pattern>
+  <filter id="shadow"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<rect width="1200" height="330" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="20" fill="url(#grid)"/>
+<ellipse cx="975" cy="150" rx="280" ry="265" fill="url(#glow)"/>
+<g opacity=".85"><path d="M824 235l113-66 113 66-113 67z" fill="none" stroke="#316994" stroke-width="2"/><path d="M824 235v-130l113-65 113 65v130M937 40v129" fill="none" stroke="#326B9A" stroke-width="2"/><path d="M824 105l113 64 113-64" fill="none" stroke="#326B9A" stroke-width="2"/><path d="M870 208l67-39 67 39-67 39z" fill="#0D3153" stroke="#4DD6FF" stroke-width="3"/><path d="M937 169v78M870 208v44l67 39 67-39v-44" fill="none" stroke="#4DD6FF" stroke-width="2.5"/></g>
+<g fill="#62E4FF"><circle cx="824" cy="105" r="8"/><circle cx="1050" cy="105" r="8"/><circle cx="937" cy="40" r="8"/><circle cx="937" cy="291" r="8"/></g>
+<path d="M750 96h-75M750 232h-65M1050 105h77M1004 252h124" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" opacity=".6"/>
+<rect x="61" y="49" width="190" height="28" rx="14" fill="#143751" stroke="#277CA3" stroke-width="1"/>
+<circle cx="80" cy="63" r="5" fill="#43E5C9"/>
+<text x="95" y="68" fill="#A9E7FA" font-size="13" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" letter-spacing="1.5">PROFILE / DEMO</text>
+<text x="58" y="162" fill="#F1F7FF" font-family="DejaVu Sans, Arial, sans-serif" font-size="68" font-weight="bold" letter-spacing="5">NOVA OPS</text>
+<rect x="61" y="183" width="440" height="5" rx="2.5" fill="url(#line)"/>
+<text x="61" y="229" fill="#A8BED8" font-size="23" font-family="DejaVu Sans, Arial, sans-serif">DEVOPS  /  AUTOMATION  /  CLOUD</text>
+<text x="61" y="266" fill="#6D95BB" font-size="17" font-family="DejaVu Sans, Arial, sans-serif">Build • Ship • Observe • Improve</text>
+<rect x="1" y="1" width="1198" height="328" rx="19" stroke="#344E78" fill="none" stroke-width="2"/>
+</svg>

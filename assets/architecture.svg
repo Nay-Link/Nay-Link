@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390" role="img" aria-label="Fictional cloud native lab architecture diagram">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#7AADEB" stroke-width="1.5"/></marker></defs>
+<rect width="960" height="390" rx="16" fill="#0D1628"/>
+<rect x="20" y="20" width="920" height="350" rx="12" fill="none" stroke="#3A506E" stroke-dasharray="6 6"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" text-anchor="middle">
+<text x="480" y="51" font-size="19" font-weight="bold" fill="#C5E6FF">DEMO / HIGH-LEVEL ARCHITECTURE</text>
+<rect x="33" y="138" width="160" height="88" rx="10" fill="#20354F" stroke="#4CA8E9"/><text x="113" y="171" font-size="17" fill="#F0F8FE" font-weight="bold">Operator</text><text x="113" y="199" font-size="13" fill="#9ABAD2">Ansible / Git</text>
+<rect x="263" y="92" width="404" height="198" rx="12" fill="#132640" stroke="#4C85BC" stroke-dasharray="4 4"/>
+<text x="465" y="123" fill="#F0F8FE" font-size="18" font-weight="bold">Kubernetes Lab</text>
+<g><rect x="284" y="146" width="110" height="55" rx="8" fill="#203E58" stroke="#55CEFF"/><text x="339" y="168" fill="#F1FAFF" font-size="14">Control Plane</text><text x="339" y="187" fill="#8CC8E9" font-size="12">3 nodes</text></g>
+<g><rect x="410" y="146" width="110" height="55" rx="8" fill="#203E58" stroke="#55CEFF"/><text x="465" y="168" fill="#F1FAFF" font-size="14">Workers</text><text x="465" y="187" fill="#8CC8E9" font-size="12">3 nodes</text></g>
+<g><rect x="536" y="146" width="110" height="55" rx="8" fill="#203E58" stroke="#55CEFF"/><text x="591" y="168" fill="#F1FAFF" font-size="14">Apps</text><text x="591" y="187" fill="#8CC8E9" font-size="12">Helm charts</text></g>
+<rect x="328" y="229" width="274" height="39" rx="8" fill="#182E4C" stroke="#3F72AC"/><text x="465" y="254" fill="#AFD7F2" font-size="14">Services · Storage · Ingress</text>
+<rect x="736" y="125" width="188" height="109" rx="10" fill="#20354F" stroke="#AA86EC"/><text x="830" y="158" font-size="17" fill="#F5EEFF" font-weight="bold">Observability</text><text x="830" y="183" font-size="13" fill="#C7B3F9">Metrics · Logs</text><text x="830" y="206" font-size="13" fill="#C7B3F9">Alerts · Dashboards</text>
+<path d="M193 182H258" stroke="#7AADEB" stroke-width="2.5" marker-end="url(#arrow)"/><path d="M667 182H729" stroke="#7AADEB" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="480" y="337" font-size="12" fill="#7896B0">SAMPLE ONLY — fictitious topology, not a claim of deployed production infrastructure</text>
+</g></svg>
